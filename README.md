@@ -27,6 +27,7 @@
 ### Пример запроса, для получения вероятностей
 
     $ cd prediction
+
     $ python get_pred.py --pproba 1
 
 ---
